@@ -1,0 +1,6 @@
+{
+    "dotnet-test-explorer.testProjectPath": "CesarCipherTests",
+    "dotnet-test-explorer.testArguments": "",
+    "dotnet-test-explorer.testRunner": "dotnet",
+    "dotnet-test-explorer.autoWatch": false
+}

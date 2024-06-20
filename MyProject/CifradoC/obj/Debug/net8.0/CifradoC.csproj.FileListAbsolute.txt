@@ -1,0 +1,11 @@
+d:\FUNDFIN\MyProject\CifradoC\bin\Debug\net8.0\CifradoC.deps.json
+d:\FUNDFIN\MyProject\CifradoC\bin\Debug\net8.0\CifradoC.dll
+d:\FUNDFIN\MyProject\CifradoC\bin\Debug\net8.0\CifradoC.pdb
+d:\FUNDFIN\MyProject\CifradoC\obj\Debug\net8.0\CifradoC.GeneratedMSBuildEditorConfig.editorconfig
+d:\FUNDFIN\MyProject\CifradoC\obj\Debug\net8.0\CifradoC.AssemblyInfoInputs.cache
+d:\FUNDFIN\MyProject\CifradoC\obj\Debug\net8.0\CifradoC.AssemblyInfo.cs
+d:\FUNDFIN\MyProject\CifradoC\obj\Debug\net8.0\CifradoC.csproj.CoreCompileInputs.cache
+d:\FUNDFIN\MyProject\CifradoC\obj\Debug\net8.0\CifradoC.dll
+d:\FUNDFIN\MyProject\CifradoC\obj\Debug\net8.0\refint\CifradoC.dll
+d:\FUNDFIN\MyProject\CifradoC\obj\Debug\net8.0\CifradoC.pdb
+d:\FUNDFIN\MyProject\CifradoC\obj\Debug\net8.0\ref\CifradoC.dll

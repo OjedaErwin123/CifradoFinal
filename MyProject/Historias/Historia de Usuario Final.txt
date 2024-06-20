@@ -1,0 +1,34 @@
+Historia de Usuario Final
+
+CIFRAR O DESCIFRAR NUMEROS
+Como usuario, necesito:
+Cifrar una frase que contenga letras y/o numeros desde el 1 al 9, en la cual yo le de el desplazamiento mas
+Descifrar una frase cifrada en la cual me pida el desplazamiento, esta frase cifrada puede incluir numeros del 1 al 9
+
+#Descripción
+Esta historia de usuario permite a los usuarios ingresar una frase cifrada y el desplazamiento utilizado para cifrarla, para descifrarla y recuperar el texto original, y viceversa tambien nos permite descifrar ingresando el desplazamiento correcto, podremos cifrar y/o descifrar letras(A-Z) y numeros(1-9)
+
+#Criterios de Aceptación
+1.Ingreso de Frase Cifrada o sin Cifrar
+o El usuario debe poder ingresar una frase en un campo de texto.
+o La frase puede contener mayúsculas, minúsculas, numeros y caracteres especiales.
+2.Ingreso de Desplazamiento
+ o El usuario debe poder ingresar el número de desplazamiento utilizado para cifrar o descifrar la frase.
+ o El número de desplazamiento debe ser validado para asegurarse de que es un número entero.
+3.Descifrado de la Frase
+ o El programa debe descifrar o cifrar la frase utilizando el algoritmo César basado en el número de desplazamiento proporcionado.
+ o El resultado debe ser la frase cifrada o descifrada correctamente.
+4.Mostrar Resultado
+ o El resultado debe ser claramente legible.
+
+#Prioridad
+Alta
+
+#Estimación
+1 Hora
+
+#Notas/Tareas Adicionales
+ • Implementar la interfaz de usuario para ingreso de frase cifrada y desplazamiento.
+ • Validar el ingreso del desplazamiento.
+ • Desarrollar la función de cifrado o descifrado César a los numeros del 1-9.
+ • Mostrar el resultado en la interfaz de usuario.
